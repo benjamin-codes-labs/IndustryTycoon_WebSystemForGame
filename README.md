@@ -1,5 +1,3 @@
-# geog-system
-
 # Industry Tycoon — Game Rules & System User Guide (README)
 
 > This is intended for use with the companion website system for the board game **Industry Tycoon**.  
