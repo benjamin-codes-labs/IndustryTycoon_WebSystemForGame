@@ -1,6 +1,6 @@
 # Industry Tycoon — Game Rules & System User Guide (README)
 
-> This is intended for use with the companion website system for the board game **Industry Tycoon**.  
+> This is intended for use with the companion website system for the self-created board game **Industry Tycoon**.  
 > Purpose: allow players to use the website during the game to quickly calculate and record money, resources, buildings, pieces, inflation, and other game data.
 
 ---
