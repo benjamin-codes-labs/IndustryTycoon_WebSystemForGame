@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "industry-tycoon",
+      "runtimeExecutable": "/private/tmp/claude-501/-Users-benjamintai-Desktop-HackathonProject/ce224a05-043c-4b77-ba19-bf0bff0594e9/scratchpad/venv/bin/streamlit",
+      "runtimeArgs": ["run", "app.py", "--server.headless", "true", "--server.port", "8517", "--browser.gatherUsageStats", "false"],
+      "port": 8517
+    }
+  ]
+}
